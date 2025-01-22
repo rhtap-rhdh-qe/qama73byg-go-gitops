@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qama73byg-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qama73byg-go
